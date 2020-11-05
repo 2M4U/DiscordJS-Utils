@@ -1,31 +1,32 @@
 {
-  "name": "basic-discordjs-utils",
-  "version": "1.0.0",
-  "description": "basic utils for discord.js v12+",
-  "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CyberCDN/DiscordJS-Utils.git"
-  },
-  "keywords": [
-    "discord.js-utils",
-    "discord.js",
-    "djs",
-    "discord",
-    "utils",
-    "discord",
-    "bots"
-  ],
-  "author": "CyberCDN",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/CyberCDN/DiscordJS-Utils/issues"
-  },
-  "homepage": "https://github.com/CyberCDN/DiscordJS-Utils#readme"
+    "name": "djs-util-belt",
+    "version": "1.0.2",
+    "description": "This is a light-weight utility belt of utils for discord.js v12+",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CyberCDN/DiscordJS-Utils.git"
+    },
+    "keywords": [
+        "discord.js-utils",
+        "discord.js",
+        "djs",
+        "discord",
+        "utils",
+        "discord",
+        "bots",
+        "djs-util-belt"
+    ],
+    "author": "CyberCDN",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/CyberCDN/DiscordJS-Utils/issues"
+    },
+    "homepage": "https://github.com/CyberCDN/DiscordJS-Utils#readme"
 }
